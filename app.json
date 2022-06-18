@@ -9,7 +9,7 @@
          "manager",
          "Phixy"
       ],   
-   "repository": "https://github.com/WKRPrabashwara/PhixyBot",
+   "repository": "https://github.com/WKprabashwara/PhixyBot",
    "addons": [
       {
          "options": {
@@ -20,7 +20,7 @@
    ],
    "buildpacks": [
     {
-      "url": "https://github.com/WKRPrabashwara/heroku-buildpack-python"
+      "url": "https://github.com/heroku/heroku-buildpack-python"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
